@@ -1,0 +1,8 @@
+node_modules/ 
+uploads/ 
+dist/ 
+*.exe 
+*.msi 
+.env 
+discord_clone.db 
+package-lock.json 
